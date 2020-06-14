@@ -1,0 +1,50 @@
+{
+  "name": "ui-prototype-modern-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/CatinhoCR/UI-Prototyping-Modern-Starter.git",
+  "author": "cato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatinhoCR/UI-Prototyping-Modern-Starter/issues"
+  },
+  "homepage": "https://github.com/CatinhoCR/UI-Prototyping-Modern-Starter#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/register": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "babel-register": "^6.26.0",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-data": "^1.3.1",
+    "gulp-hb": "^8.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-load-plugins": "^2.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-util": "^3.0.8",
+    "handlebars": "^4.7.6",
+    "node-notifier": "^7.0.1",
+    "require-dir": "^1.2.0",
+    "run-sequence": "^2.2.1",
+    "webpack": "^4.43.0",
+    "webpack-stream": "^5.2.1",
+    "yargs": "^15.3.1"
+  },
+  "optionalDependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  },
+  "dependencies": {}
+}
